@@ -1,7 +1,7 @@
 import numpy as np
 import os
 import time
-import data as data
+import data
 import random
 
 gameboard = [
